@@ -11,4 +11,5 @@
 
   /* Home - tudo sobre a pagina principal -->>> */
 
-@import "./home/introducao.css"
+@import "./home/introducao.css";
+@import "./home/bicicletas-lista.css"

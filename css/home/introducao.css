@@ -21,7 +21,6 @@
 
 }
 
-
 .introducao img{
   max-width: 100%;
   object-fit: cover;
@@ -30,7 +29,7 @@
 }
 
 @media (max-width: 1200px){
-  .introducao h1{
+  .font-1-xxl{
     font-size: 3rem;
   }
 
@@ -49,12 +48,12 @@
     gap: 2rem;
   }
 
-  .introducao h1{
+  .font-1-xxl{
     font-size: 2rem;
     padding-bottom: 30px;
   }
 
-  .introducao p{
+  .font-2-xl{
     font-size: 1.125rem;
   }
 
