@@ -6,6 +6,8 @@
 /* utilidades - ex: botão e coisas que se repetem com frequência no site mas não de forma global. -->>> */
 
 @import "./util/componentes.css";
+@import "./util/cores.css";
+@import "./util/tipografia.css";
 
   /* Home - tudo sobre a pagina principal -->>> */
 
